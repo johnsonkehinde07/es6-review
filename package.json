@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +12,14 @@
   "dependencies": {
     "express": "^4.21.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsonkehinde07/es6-review.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnsonkehinde07/es6-review/issues"
+  },
+  "homepage": "https://github.com/johnsonkehinde07/es6-review#readme",
+  "description": ""
 }
